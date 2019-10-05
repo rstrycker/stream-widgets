@@ -27,3 +27,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+# Notes
+ - https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets
+ - https://darksky.net/dev/docs
+ 
